@@ -8,7 +8,7 @@ Project using Pandas, Jupyter Notebook, and Tableau to convert data and create v
 * [Summary](#summary)
 
 ## Overview of Project
-I created visualizations in Tableau using CSV data for NYC Citibike to show investors for a start-up bikesharing program in Des Moines, IA called DM BikeShare. Data is sex-aggregated and includes usertypes (subscriber, customer).
+I created visualizations in Tableau using CSV data for NYC Citibike to show investors for a start-up bikesharing program in Des Moines, IA called DM BikeShare. Data is sex-disaggregated and includes usertypes (subscriber, customer).
 
 ### Resources
 - Data source: [201908-citibike-tripdata.csv](https://s3.amazonaws.com/tripdata/201808-citibike-tripdata.csv.zip)
